@@ -25,7 +25,6 @@
 
 .caixa3{
     border: 3px solid rebeccapurple;
-    grid-row:2/4;
-    grid-column:3/5;
+    grid-area:2/3/4/5;
 
 }
