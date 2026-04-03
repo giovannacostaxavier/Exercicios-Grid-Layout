@@ -9,10 +9,8 @@
 
 .caixa1{
     border: 3px solid rebeccapurple;
-    grid-row-start: 1;
-    grid-row-end: 2;
-    grid-column-start: 1;
-    grid-column-end: 5;
+    grid-row: 1/2;
+    grid-column: 1/5;
 
 }
 
@@ -27,9 +25,7 @@
 
 .caixa3{
     border: 3px solid rebeccapurple;
-    grid-row-start: 2;
-    grid-row-end: 4;
-    grid-column-start: 3;
-    grid-column-end: 5;
+    grid-row:2/4;
+    grid-column:3/5;
 
 }
